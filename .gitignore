@@ -361,3 +361,7 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Assembly-CSharp-Editor.csproj
+/Assembly-CSharp-firstpass.csproj
+/InkEditor.csproj
+/Ink-Libraries.csproj
